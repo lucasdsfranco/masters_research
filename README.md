@@ -1,7 +1,5 @@
 # masters_research
-masters research tests data
-
-- data from the 20 scenarios used in the masters research
+data from the 20 scenarios used in the masters research
 
 - scenarios 1-5: simple convex polygon
 - scenarios 6-10: simple concave polygon
